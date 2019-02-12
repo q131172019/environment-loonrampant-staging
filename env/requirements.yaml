@@ -18,4 +18,4 @@ dependencies:
   version: 0.0.1
 - name: voting-app-worker-java
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.3
+  version: 1.0.5
