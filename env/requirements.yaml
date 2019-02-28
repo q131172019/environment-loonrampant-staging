@@ -29,6 +29,9 @@ dependencies:
 - name: voting-app-worker-java
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.5
+- name: voting-app-worker-java-1stateful
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
 - name: voting-app-worker-java-stateful
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.2
