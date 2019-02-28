@@ -12,7 +12,11 @@ dependencies:
   version: 2.3.89
 - name: stateful-voting-app-worker-java
   repository: http://jenkins-x-chartmuseum:8080
+<<<<<<< promote-stateful-voting-app-worker-java-1.0.5
   version: 1.0.5
+=======
+  version: 1.0.0
+>>>>>>> master
 - name: voting-app-result-nodejs
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
