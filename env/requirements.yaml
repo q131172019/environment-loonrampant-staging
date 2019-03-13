@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.1
 - name: voting-app-result-nodejs-stateful
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.11
+  version: 0.0.12
 - name: voting-app-vote-python
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.9
